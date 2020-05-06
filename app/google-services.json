@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "176244655696",
+    "firebase_url": "https://hello-creeps.firebaseio.com",
+    "project_id": "hello-creeps",
+    "storage_bucket": "hello-creeps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176244655696:android:b5b4964dc356ede3823355",
+        "android_client_info": {
+          "package_name": "com.example.hellocreeps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176244655696-7if1cg2jbg7pv0heu903plspvvfj728t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0BDjBie72S7R4MxA3KaBHtKkDwlOoUxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176244655696-7if1cg2jbg7pv0heu903plspvvfj728t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
